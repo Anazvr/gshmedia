@@ -1,0 +1,21 @@
+Moshi Moshi 
+Project GSH Media Selesai 
+Walaupun Hasil Nyuri Dari Website Lain :v
+Tampilan Jos Lah :V
+Terinspirasi Dari Film Hacker 2016
+Database Udah Ku Sediain
+Kurang Lebihnya Segitu Dulu ;)
+
+INSTALASI
+-Ekstrak Zip GSHBook Ke Anu kamu
+-Import Database ke phpmyadmin
+-Ubah Config yang terletak di assets/includes/config.php
+-Ganti Confignya Sesuai Nama DB,User $ Pw lu ea :)
+-Halaman admin (sitelu.co.li/admin)
+-Default user=anazvr,pw=12345anazvr
+
+ 
+Ada kesulitan / Kurang Paham PM gw ok :v
+http://facebook.com/anas.mil.id
+
+Thanks To All Member Garuda Security Hacker
